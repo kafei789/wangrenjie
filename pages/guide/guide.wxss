@@ -1,0 +1,15 @@
+scroll-view {
+    height: 100%;
+    width: 100%;
+    background: #fff;
+}
+
+.t {
+    font-size: 35rpx;
+    margin: 20rpx 0 20rpx 20rpx;
+}
+
+.adContainer {
+    width: 100%;
+    margin-top: 0rpx;
+}
